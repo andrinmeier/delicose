@@ -1,5 +1,9 @@
 # Delicose
 
+## Name origins
+
+Delicose = word play on the word bellicose which means "belligerent", "eager to fight". It's supposed to "wage war on finding good food".
+
 ## Ideas
 
 * All data offline, on mobile phone
