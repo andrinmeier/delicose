@@ -1,10 +1,18 @@
-# Delicose
+<div align="center">
+  <h1>Delicose</h1>
+  <img src="./readme_images/dalle_gourmet_food.png" width="200"/>
+  <p>Modern AI driven shopping app that actually makes your life easier.</p>
+  <p style="font-size: 8pt">Image generated using <a href="https://huggingface.co/spaces/dalle-mini/dalle-mini">Hugging Face DALL-E mini</a>.</p>
+</div>
+<br/>
 
-## Name origins
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+# Name origins
 
 Delicose = word play on the word bellicose which means "belligerent", "eager to fight". It's supposed to "wage war on finding good food".
 
-## Ideas
+# Ideas
 
 * All data offline, on mobile phone
 * Allow user to add item to buy
